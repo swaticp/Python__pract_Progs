@@ -1,2 +1,2 @@
-# Python__pract_Progs
-My Python practice programs
+# Py_prac_Progs
+#My Python practice programs
